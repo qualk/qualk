@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences **i don't want you to**
 
-- ⚡ Fun fact **I am surprisingly good at linux-related things**
+- ⚡ Fun fact **no.**
 
 <h3 align="left">Interface with me:</h3>
 <p align="left">
