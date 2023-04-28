@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qualk&show_icons=true&locale=en" alt="qualk" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qualk&" alt="qualk" /></p>
   
+<h3>Around <a href="#"><img src="https://profile-counter.glitch.me/qualk/count.svg"></a> have been here! <3</h3>
